@@ -1,6 +1,6 @@
 from models.Rider import Rider
 
-default_riders = ['Karim', 'Manuja', 'Phil']
+default_riders = ['Karim', 'Somya', 'Manuja']
 
 
 def get_rider(rider_id: str):  # Service for the GET() method
