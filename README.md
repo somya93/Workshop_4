@@ -121,5 +121,5 @@ I highly recommend you follow the pattern I established as you add more features
 
 It would look something like this
 ```
-api.add_resource(Users, '/users')
+api.add_resource(UserResource, '/users')
 ```
